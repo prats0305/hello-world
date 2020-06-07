@@ -7,7 +7,7 @@
 
 	<artifactId>API</artifactId>
 	<packaging>war</packaging>
-	<name>ADCB Kotak API</name>
+	<name>API</name>
 	<version>1.0</version>
 
 	<parent>
