@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<artifactId>ADCB_Kotak_API</artifactId>
+	<artifactId>API</artifactId>
 	<packaging>war</packaging>
 	<name>ADCB Kotak API</name>
 	<version>1.0</version>
@@ -141,7 +141,7 @@
 			</plugin>
 
 		</plugins>
-		<finalName>ADCB_Kotak_API</finalName>
+		<finalName>API</finalName>
 
 	</build>
 </project>
